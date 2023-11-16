@@ -1,0 +1,11 @@
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\bin\Debug\Item CRUD practice.exe.config
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\bin\Debug\Item CRUD practice.exe
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\bin\Debug\Item CRUD practice.pdb
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item CRUD practice.csproj.AssemblyReference.cache
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item CRUD practice.csproj.SuggestedBindingRedirects.cache
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item_CRUD_practice.Properties.Resources.resources
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item CRUD practice.csproj.GenerateResource.cache
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item CRUD practice.csproj.CoreCompileInputs.cache
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item CRUD practice.exe
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item CRUD practice.pdb
+D:\Target document\C# programming\Revision\C# OOP WinForm Advanced\Item CRUD practice\obj\Debug\Item_CRUD_practice.ItemFrm.resources
